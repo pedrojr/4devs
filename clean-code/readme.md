@@ -9,6 +9,7 @@ Clean Code ou código limpo se refere a um conjunto de boas práticas na escrita
 [Clean code notes - Juan Carlos](https://github.com/JuanCrg90/Clean-Code-Notes)
 
 ### Vídeos
+[Livro Clean Code - Filipe Deschamps](https://www.youtube.com/playlist?list=PLMdYygf53DP5Sc6yFYs6ZmjsuuA2fu0TK)\
 [O que é Código Bom e Código Ruim? - André Secco](https://www.youtube.com/watch?v=ouYg1PMhiRE&list=PL3thWewfjbFRzbjrJR8YH4ryxm6dxXIfM)\
 [Clean Code with Robert C. Martin - Rodrigo Branas](https://www.youtube.com/watch?v=DaRpFF-di4w)\
 [Clean Code - Uncle Bob](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
