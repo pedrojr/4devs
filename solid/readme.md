@@ -11,6 +11,11 @@ Na programação de computadores orientada a objetos, o termo SOLID é um acrôn
 
 ### Vídeos
 [SOLID fica fácil com essas ilustrações - Filipe Deschamps](https://www.youtube.com/watch?v=6SfrO3D4dHM)\
+[SOLID #1: Uma reflexão sobre o Princípio da responsabilidade única - Alberto Souza](https://www.youtube.com/watch?v=GGe0o_v5vjM)\
+[SOLID #2: Princípio do aberto/fechado - Alberto Souza](https://www.youtube.com/watch?v=DU_O5oqMixc)\
+[SOLID #3: Princípio de substituição de Liskov - Alberto Souza](https://www.youtube.com/watch?v=MiV_tI3fNPQ)\
+[SOLID #4: Princípio de segregação pela interface (ISP) - Alberto Souza](https://www.youtube.com/watch?v=0Jv31svi0qA)\
+[SOLID #5: Princípio da inversão de dependências - Alberto Souza](https://www.youtube.com/watch?v=EDb3rs1wnOw)\
 [SOLID: Programação orientada a objetos - Mario Rezende](https://www.youtube.com/watch?v=rnWPWU7XKeg)
 
 ### Outros links
