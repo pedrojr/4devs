@@ -1,11 +1,8 @@
 ## Git
 
 * [Git config windows](./git-config-win.md)
-
 * [Git config linux](./git-config-linux.md)
-
 * [Comandos git](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
-
 * [Comandos gitflow](./git-flow.md)
 
 ### Commit messages
@@ -23,4 +20,5 @@
 [Code review resources](https://github.com/joho/awesome-code-review)
 
 ### Outros links
-[Curso de Versionamento com Git - Angelo Luz](https://www.youtube.com/playlist?list=PLDqnSpzNKDvkfF_ZMfukmOG3MtGKfXlfJ)
+[Curso de Versionamento com Git - Angelo Luz](https://www.youtube.com/playlist?list=PLDqnSpzNKDvkfF_ZMfukmOG3MtGKfXlfJ)\
+[Entendendo GIT | (não é um tutorial!) - Fabio Akita](https://www.youtube.com/watch?v=6Czd1Yetaac)
