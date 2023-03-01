@@ -15,6 +15,7 @@ Domain-driven design (DDD) é uma importante abordagem de design de software, co
 [Entidades, Value Objects e Agregados: conceitos fundamentais para representar domínio em código - Elemar Jr](https://www.youtube.com/watch?v=EuNHj8r1ADM)\
 [Domain-Driven Design: comece do jeito certo! - Canal dotNET](https://www.youtube.com/watch?v=FwV1vmC7PzE)\
 [Domain Driven Design do Jeito Certo - Elemar Jr](https://www.youtube.com/watch?v=cz6EU7Z_BhE)\
+[DDD: Boas Práticas na escrita e validação de Entidades de Domínio - Eduardo Pires](https://www.youtube.com/watch?v=NryGGD21O20)\
 [DDD fundamentals - Codewrinkles](https://www.youtube.com/playlist?list=PL2E-vlKoo_v3ch9oZWYZWwRbqdVoWHY8X)
 
 ### Outros links
