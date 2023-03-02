@@ -1,5 +1,7 @@
 ## POG - Programação orientada a gambiarras
 
+É importante conhecer para evitar, ou para salvar o dia :P
+
 ### Links
 https://www.livropog.com.br/
 
