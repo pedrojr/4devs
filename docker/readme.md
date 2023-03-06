@@ -13,6 +13,7 @@ Docker é um conjunto de produtos de plataforma como serviço (PaaS) que usam vi
 [12factor - Gomex](https://github.com/gomex/exemplo-12factor-docker)
 
 ### Vídeos
+[O mínimo que você precisa saber sobre Docker! - Diolinux](https://www.youtube.com/watch?v=ntbpIfS44Gw)\
 [Curso de Docker para iniciantes - Matheus Battisti](https://www.youtube.com/watch?v=np_vyd7QlXk)\
 [Docker do zero ao compose - Fabrício Veronez](https://www.youtube.com/watch?v=GkMJJkWRgBQ)\
 [Como usar corretamente o Docker Compose - Fabrício Veronez](https://www.youtube.com/watch?v=hue967OT4gw)
