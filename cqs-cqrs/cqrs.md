@@ -13,4 +13,6 @@
 [Descomplicando CQRS - Elemar Jr](https://www.youtube.com/watch?v=yd6V4w19iJU)\
 [CQRS, o que ele resolve mesmo? - Alberto Souza](https://www.youtube.com/watch?v=ZA9O-O9HSPY)\
 [A Decade of DDD, CQRS, Event Sourcing - Greg Young](https://www.youtube.com/watch?v=LDW0QWie21s)\
-[A practical guide to implementing CQRS with C# & NET5 - Event Store](https://www.youtube.com/watch?v=eOPlg-eB4As)
+[CQRS with Greg Young - Rodrigo Branas](https://www.youtube.com/watch?v=HxNmPC-wKPw)\
+[A practical guide to implementing CQRS with C# & NET5 - Event Store](https://www.youtube.com/watch?v=eOPlg-eB4As)\
+[CQRS com Eduardo Pires - Rodrigo Branas](https://www.youtube.com/watch?v=eVC5CMMSnwg)
