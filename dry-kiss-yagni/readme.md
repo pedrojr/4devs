@@ -6,7 +6,8 @@ Dry, Don't repeat yourself (em português: Não repita a si mesmo), é um concei
 [Macoratti](https://www.macoratti.net/16/04/net_dry1.htm)\
 [InfoQ](https://www.infoq.com/br/news/2012/07/DRY-acoplamento-duplicacao/)\
 [Baeldung](https://www.baeldung.com/cs/dry-software-design-principle)\
-[Why DRY is the most over-rated programming principle](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
+[Why DRY is the most over-rated programming principle](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)\
+[DRY Is Bad! - Codewrinkles](https://www.youtube.com/watch?v=v1ZoScsoQSw)
 
 ---
 
@@ -16,7 +17,8 @@ KISS, Keep it simple, stupid! (em português: Mantenha simples, estúpido!), o p
 ### Links
 [Macoratti](https://www.macoratti.net/20/03/net_kiss1.htm)\
 [Interaction Design](https://www.interaction-design.org/literature/topics/keep-it-simple-stupid)\
-[Baeldung](https://www.baeldung.com/cs/kiss-software-design-principle)
+[Baeldung](https://www.baeldung.com/cs/kiss-software-design-principle)\
+[KISS - Código Fonte TV](https://www.youtube.com/watch?v=HmBG-1cdHUw)
 
 ---
 
@@ -30,5 +32,4 @@ YAGNI é uma abreviação da expressão de língua inglesa You Ain't Gonna Need 
 ---
 
 ### Vídeos
-[DRY, KISS, YAGNI | Code/Drops #27 - Rocketseat](https://www.youtube.com/watch?v=5yJ_cAUrpQc)\
-[KISS - Código Fonte TV](https://www.youtube.com/watch?v=HmBG-1cdHUw)
+[DRY, KISS, YAGNI | Code/Drops #27 - Rocketseat](https://www.youtube.com/watch?v=5yJ_cAUrpQc)
