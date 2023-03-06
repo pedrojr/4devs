@@ -19,4 +19,5 @@ Model-View-Presenter é uma derivação do padrão MVC, usado também para const
 ### Vídeos
 [O que é MVC? - Devmedia](https://www.youtube.com/watch?v=fI_w0XBo4ZM)\
 [Padrão MVC (Model - View - Controller) - Cod3r Cursos](https://www.youtube.com/watch?v=mMDt9g7bMjk)\
+[Entenda AGORA o PADRÃO Arquitetural MVC - Pisani da ArcH](https://www.youtube.com/watch?v=9Ieh0yoiiqI)\
 [MVC Pattern: Organizando o projeto - Deivid Willyan](https://www.youtube.com/watch?v=KDDU4ZT_fXU)
