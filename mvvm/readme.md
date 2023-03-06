@@ -9,6 +9,7 @@ Model-view-viewmodel é um padrão de arquitetura de software que facilita a sep
 [MVP vs MVVM: principais diferenças, vantagens e desvantagens - Alexandre Lima](https://www.zup.com.br/blog/mvp-vs-mvvm)
 
 ### Vídeos
+[Arquitetando com MVVM - Pisani da ArcH](https://www.youtube.com/watch?v=YVjsQglQV6k)\
 [MVVM (Model, View, View-Model) | Prós e Contras - Pisani da ArcH](https://www.youtube.com/watch?v=5KbetmHU5to)\
 [A história do MVC, MVP e MVVM para android - CI&T](https://www.youtube.com/watch?v=fG3Vr3RX2gg)\
 [MVVM no Flutter - Estrutura para iniciantes - Flutterando](https://www.youtube.com/watch?v=WgadnZcujuc)\
