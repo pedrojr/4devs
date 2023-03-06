@@ -16,4 +16,5 @@ A arquitetura hexagonal, também conhecida como arquitetura de portas e adaptado
 [Quando utilizar a Arquitetura Hexagonal - Nataniel Paiva](https://www.youtube.com/watch?v=opH8tomzw60)\
 [Vale a pena utilizar arquitetura hexagonal? - Mônica Ribeiro](https://www.youtube.com/watch?v=59ecdfC31Nk)\
 [Aplicando Arquitetura Hexagonal com testes de integração e unidade - Rodrigo Branas](https://www.youtube.com/watch?v=DWsxTJpxaOo)\
+[Hexagonal Architecture (Ports and Adapters) with Alistair Cockburn - Rodrigo Branas](https://www.youtube.com/watch?v=AOIWUPjal60)\
 [Arquitetura Hexagonal? - Nilson Jr](https://www.youtube.com/watch?v=veddUMcWZiM)
