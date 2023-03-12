@@ -5,6 +5,7 @@ Multilocação de software é uma arquitetura de software na qual uma única ins
 ### Links
 [ASP.NET Core - Aplicações Multi-Tenant - Macoratti](https://macoratti.net/21/07/aspnc_multenant1.htm)\
 [Projetando a Arquitetura de um SaaS, Multi-Tenant, baseada em Microserviços - Ruben Lins Silva](https://www.linkedin.com/pulse/projetando-arquitetura-de-um-saas-multi-tenant-em-ruben-lins-silva/)\
+[A beginner’s guide to database multitenancy - Vlad Mihalcea](https://vladmihalcea.com/database-multitenancy/)\
 [Architect multitenant solutions on Azure - Learn.microsoft](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/overview)\
 [Multitenancy With Spring Data JPA - Hamid Reza Sharifi](https://www.baeldung.com/multitenancy-with-spring-data-jpa)
 
