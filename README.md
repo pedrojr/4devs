@@ -34,6 +34,8 @@ Sempre que possível referências e conteúdos em português e de maior relevân
 
 ### Outros links
 [Indicações de livros](./books)\
+[Ciência da Computação - Universidade-Livre](https://github.com/Universidade-Livre/ciencia-da-computacao)\
+[Traduz-ai - Universidade-Livre](https://github.com/Universidade-Livre/traduz-ai)\
 [Revisão de livros e artigos científicos sobre desenvolvimento - Alberto Souza](https://www.youtube.com/playlist?list=PLVHlvMRWE0Y7dh2L8ncst42M9YjLMfcpx)\
 [Manual do arquiteto de software - Elemar Jr](https://arquiteturadesoftware.online/)\
 [Fundamentos de Arquitetura de Software - Elemar Jr](https://www.youtube.com/playlist?list=PLkpjQs-GfEMPzOzinFrqfkkfZy2DpwpBh)\
