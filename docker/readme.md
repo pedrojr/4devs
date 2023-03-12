@@ -16,7 +16,8 @@ Docker é um conjunto de produtos de plataforma como serviço (PaaS) que usam vi
 [O mínimo que você precisa saber sobre Docker! - Diolinux](https://www.youtube.com/watch?v=ntbpIfS44Gw)\
 [Curso de Docker para iniciantes - Matheus Battisti](https://www.youtube.com/watch?v=np_vyd7QlXk)\
 [Docker do zero ao compose - Fabrício Veronez](https://www.youtube.com/watch?v=GkMJJkWRgBQ)\
-[Como usar corretamente o Docker Compose - Fabrício Veronez](https://www.youtube.com/watch?v=hue967OT4gw)
+[Como usar corretamente o Docker Compose - Fabrício Veronez](https://www.youtube.com/watch?v=hue967OT4gw)\
+[Entendendo Funcionamento de Containers - Fabio Akita](https://www.youtube.com/watch?v=85k8se4Zo70)
 
 ### Outros links
 [Lazydocker - Jesse Duffield](https://github.com/jesseduffield/lazydocker)\
