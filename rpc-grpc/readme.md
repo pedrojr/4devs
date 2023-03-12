@@ -11,6 +11,7 @@ gRPC (Remote Procedure Calls) também conhecido como Google Remote Procedure Cal
 
 ### Vídeos
 [Introdução a gRPC - Rafael Ponte](https://www.youtube.com/watch?v=r8gOKuWgNvw)\
+[Zup Decodifica: gRPC - Rafael Ponte](https://www.youtube.com/playlist?list=PLkX9oUrQ1ev6g-0Hx2iNmYohYg4L1H8vg)\
 [gRPC: o novo modelo de comunicação Cross-Platform - Canal dotNET](https://www.youtube.com/watch?v=rrugn-DDfRI)\
 [GRPC e Protolocos para Microservices - Pisani da ArcH](https://www.youtube.com/watch?v=utOaYtQLgMM)\
 [gRPC vs REST na prática - Full Cycle](https://www.youtube.com/watch?v=9RvushutRPw)
