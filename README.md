@@ -28,7 +28,11 @@ Sempre que possível referências e conteúdos em português e de maior relevân
 - [Clean Architecture](./clean-architecture)
 - [Porto Architecture](./porto-architecture)
 - [Vertical Slice Architecture](./vertical-slice-architecture)
+- [Multitenancy](./multitenancy)
 - [CQS / CQRS](./cqs-cqrs)
+- [Docker](./docker)
+- [Event-driven Architecture](./event-driven-architecture)
+- [RPC / gRPC](./rpc-grpc)
 - [Architecture Decision Records](./adr)
 - [Microservices](./microservices)
 
