@@ -12,6 +12,8 @@
 
 [Test-Driven Development: Teste e Design no Mundo Real - Mauricio Aniche](https://www.casadocodigo.com.br/products/livro-tdd)
 
+[Effective Software Testing A Developer’s Guide -  Maurício Aniche](https://www.manning.com/books/effective-software-testing)\
+
 [Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos - Aditya Y. Bhargava](https://www.amazon.com.br/Entendendo-Algoritmos-ilustrado-programadores-curiosos-ebook/dp/B07B61HC3L/)
 
 [Trabalho Eficaz com Código Legado - Michael C. Feathers](https://www.amazon.com.br/Trabalho-Eficaz-com-C%C3%B3digo-Legado-ebook/dp/B017MSFXI6/)
