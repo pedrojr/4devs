@@ -16,6 +16,7 @@ Sempre que possível referências e conteúdos em português e de maior relevân
 - [Service Locator](./ioc-di-sl)
 - [AOP - Aspect Oriented Programming](./aop)
 - [Clean Code](./clean-code)
+- [Outros Padrões](./other-patterns)
 - [Design Patterns](./design-patterns)
 - [DDD - Domain Driven Design](./ddd)
 - [HTTP](./http)
