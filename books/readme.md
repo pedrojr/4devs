@@ -12,7 +12,7 @@
 
 [Test-Driven Development: Teste e Design no Mundo Real - Mauricio Aniche](https://www.casadocodigo.com.br/products/livro-tdd)
 
-[Effective Software Testing A Developer’s Guide -  Maurício Aniche](https://www.manning.com/books/effective-software-testing)\
+[Effective Software Testing A Developer’s Guide -  Maurício Aniche](https://www.manning.com/books/effective-software-testing)
 
 [Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos - Aditya Y. Bhargava](https://www.amazon.com.br/Entendendo-Algoritmos-ilustrado-programadores-curiosos-ebook/dp/B07B61HC3L/)
 
@@ -35,3 +35,5 @@
 [O Mítico Homem-mês: Ensaios Sobre Engenharia de Software - Frederick P. Brooks Jr.](https://www.amazon.com.br/m%C3%ADtico-homem-m%C3%AAs-ensaios-engenharia-software/dp/8550802530/)
 
 [O Programador Pragmático: De Aprendiz a Mestre - Andrew Hunt / David Thomas](https://www.amazon.com.br/Programador-Pragm%C3%A1tico-Aprendiz-Mestre-ebook/dp/B019HM0H90)
+
+[Freely available programming books - Ebookfoundation.org](https://github.com/EbookFoundation/free-programming-books)
