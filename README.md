@@ -6,7 +6,7 @@ Sempre que possível referências e conteúdos em português e de maior relevân
 ### Sugestão de ordem de estudo
 
 - [POO](./poo) / [POG](./pog)
-- [DRY / KISS / YAGNI](./dry-kiss-yagni)
+- [DRY, KISS e YAGNI](./dry-kiss-yagni)
 - [GRASP](./grasp)
 - [Object Calisthenics](./object-calisthenics)
 - [SOLID](./solid)
@@ -22,7 +22,7 @@ Sempre que possível referências e conteúdos em português e de maior relevân
 - [HTTP](./http)
 - [REST](./rest)
 - [SOAP](./soap)
-- [MVC / MVP](./mvc-mvp)
+- [MVC e MVP](./mvc-mvp)
 - [MVVM](./mvvm)
 - [Onion Architecture](./onion-architecture)
 - [Hexagonal Architecture](./hexagonal-architecture)
@@ -30,11 +30,12 @@ Sempre que possível referências e conteúdos em português e de maior relevân
 - [Porto Architecture](./porto-architecture)
 - [Vertical Slice Architecture](./vertical-slice-architecture)
 - [Multitenancy](./multitenancy)
-- [CQS / CQRS](./cqs-cqrs)
-- [Docker](./docker)
+- [CQS e CQRS](./cqs-cqrs)
+- [RPC e gRPC](./rpc-grpc)
+- [Event Sourcing](./event-sourcing)
 - [Event-driven Architecture](./event-driven-architecture)
-- [RPC / gRPC](./rpc-grpc)
 - [Architecture Decision Records](./adr)
+- [Docker](./docker)
 - [Microservices](./microservices)
 
 ### Outros links
