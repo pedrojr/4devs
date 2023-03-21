@@ -7,8 +7,10 @@ Na informática e engenharia de software, Representational State Transfer (abrev
 [O que é API RESTful? - Aws.amazon](https://aws.amazon.com/pt/what-is/restful-api/)\
 [Origem e significado de REST e RESTful - Elemar Jr](https://eximia.co/origem-e-significado-de-rest-e-restful/)\
 [REST - Desfazendo Mal-entendidos - William Santos](https://dev.to/wsantosdev/design-desfazendo-mal-entendidos-rest-1ih1)\
+[O guia definitivo para o design de APIs RESTful - Giuliana Bezerra](https://giuliana-bezerra.medium.com/o-guia-definitivo-para-o-design-de-apis-restful-c9eef929fe0b)\
 [Utilizando HATEOAS para reduzir acoplamento e “inteligência de negócio” em aplicações cliente -  Elemar Jr](https://eximia.co/utilizando-hateoas-para-reduzir-acoplamento-e-inteligencia-de-negocio-em-aplicacoes-cliente/)\
-[Spring HATEOAS - Oliver Drotbohm / Greg Turnquist / Jay Bryant](https://docs.spring.io/spring-hateoas/docs/current/reference/html/)
+[Spring HATEOAS - Oliver Drotbohm / Greg Turnquist / Jay Bryant](https://docs.spring.io/spring-hateoas/docs/current/reference/html/)\
+[The complete guide to protecting your APIs with OAuth2 - Dan Moore](https://stackoverflow.blog/2022/04/11/the-complete-guide-to-protecting-your-apis-with-oauth2/)
 
 ### Vídeos
 [REST do Jeito Certo - Elemar Jr](https://www.youtube.com/playlist?list=PLkpjQs-GfEMPituMCb77qd90onpF3khFt)\
