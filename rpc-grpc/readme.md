@@ -7,6 +7,7 @@ gRPC (Remote Procedure Calls) também conhecido como Google Remote Procedure Cal
 [gRPC - Learn.microsoft](https://learn.microsoft.com/pt-br/dotnet/architecture/cloud-native/grpc)\
 [O que é gRPC e quais suas vantagens? - Tiago Tartari](https://tiagotartari.net/o-que-e-grpc-e-quais-suas-vantagens.html)\
 [O que é gRPC - Rodrigo Tavares](https://dev.to/expertostech/o-que-e-grpc-seus-componentes-rpc-e-http2-parte-1-nnm)\
+[gRPC vs REST - Guillaume Falourd](https://gist.github.com/GuillaumeFalourd/30c126520b39cdf60c6965812a695371)\
 [gRPC vs REST - Nitin Khaitan](https://medium.com/towards-polyglot-architecture/grpc-vs-rest-comparing-api-architecture-4be9b1cdc703)
 
 ### Vídeos
