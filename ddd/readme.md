@@ -8,7 +8,8 @@ Domain-driven design (DDD) é uma importante abordagem de design de software, co
 [Domain-Driven Design: guia básico sobre DDD - Danilo Masotti](https://www.zup.com.br/blog/domain-driven-design-ddd)\
 [Design: DDD - Desfazendo Mal-entendidos - William Santos](https://dev.to/wsantosdev/design-desfazendo-mal-entendidos-ddd-o05)\
 [Domain-Driven Design - Martin Fowler](https://martinfowler.com/tags/domain%20driven%20design.html)\
-[Domain Driven Design Quickly - Abel Avram e Floyd Marinescu](https://www.infoq.com/minibooks/domain-driven-design-quickly/)
+[Domain Driven Design Quickly - Abel Avram e Floyd Marinescu](https://www.infoq.com/minibooks/domain-driven-design-quickly/)\
+[Domain Driven Design - Felipe Freitas](https://thedomaindrivendesign.io/)
 
 ### Vídeos
 [DDD do jeito certo - Elemar Jr](https://www.youtube.com/playlist?list=PLkpjQs-GfEMN8CHp7tIQqg6JFowrIX9ve)\
