@@ -7,7 +7,8 @@ Arquitetura orientada a eventos é um paradigma de arquitetura de software que p
 [11 erros comuns em arquiteturas orientadas a eventos e como evitá-los - João Bosco / Marcelo Costa](https://www.infoq.com/br/articles/11-erros-eda-como-evitar/)\
 [Behind the scenes: McDonald’s event-driven architecture - McDonald’s Technical Blog](https://medium.com/mcdonalds-technical-blog/behind-the-scenes-mcdonalds-event-driven-architecture-51a6542c0d86)\
 [McDonald’s event-driven architecture: The data journey and how it works - McDonald’s Technical Blog](https://medium.com/mcdonalds-technical-blog/mcdonalds-event-driven-architecture-the-data-journey-and-how-it-works-4591d108821f)\
-[Event Driven Architecture - 5 Pitfalls to Avoid - Natan Silnitsky](https://medium.com/wix-engineering/event-driven-architecture-5-pitfalls-to-avoid-b3ebf885bdb1)
+[Event Driven Architecture - 5 Pitfalls to Avoid - Natan Silnitsky](https://medium.com/wix-engineering/event-driven-architecture-5-pitfalls-to-avoid-b3ebf885bdb1)\
+[Event-Driven Architectures vs. Event-Based Compute in Serverless Applications - Alex DeBrie](https://www.alexdebrie.com/posts/event-driven-vs-event-based/)
 
 ### Vídeos
 [Event Driven Architecture na Creditas - Camila Campos](https://www.youtube.com/watch?v=pRG0Phb8ZJM)\
