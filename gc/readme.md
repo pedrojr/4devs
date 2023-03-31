@@ -9,6 +9,8 @@ Coletor de lixo (em inglês: garbage collector, ou o acrônimo GC) é um process
 [7 kinds of garbage collection for Java - Jayashree Huttanagoudar](https://opensource.com/article/22/7/garbage-collection-java)
 
 ### Vídeos
+[Como funciona a alocação? - Pisani da ArcH](https://www.youtube.com/watch?v=ljq79LVxVIY)\
+[Memória Stack e Heap, tudo o que você precisa saber para arquitetar seus softwares - Pisani da ArcH](https://www.youtube.com/watch?v=Qve5f-PgQ18)\
 [Entendendo a Heap e o Garbage Collector em .NET - Elemar Jr](https://www.youtube.com/watch?v=s5-uC-taIi4)\
 [Como o Garbage Collector (GC) afeta a performance em .NET: Validação de CPF - Elemar Jr](https://www.youtube.com/watch?v=CgWTXh66cXc)\
 [Performance máxima em .NET: como entender o GC pode acelerar apps em 10x - Canal dotNET](https://www.youtube.com/watch?v=NOCfr5HRDvM)\
