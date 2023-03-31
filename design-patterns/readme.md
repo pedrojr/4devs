@@ -13,6 +13,9 @@ Em engenharia de software, um padrão de projeto é uma solução geral para um 
 
 ### Vídeos
 [Design Patterns + .NET: exemplos de implementação na prática - Canal dotNET](https://www.youtube.com/watch?v=xe7UbRFL88I)\
+[Design Patterns + .NET: exemplos de implementação na prática | 2a edição - Canal dotNET](https://www.youtube.com/watch?v=OwjmNDhZvKg)\
+[Design Patterns + .NET: exemplos de implementação na prática | 3a edição - Canal dotNET](https://www.youtube.com/watch?v=D4rH5xF7smI)\
+[Design Patterns + .NET: exemplos de implementação na prática | 4a edição - Canal dotNET](https://www.youtube.com/watch?v=2On-b8f7DHk)\
 [Design Patterns com C#, .NET 6 e ASP.NET Core 6 - LuisDev](https://www.youtube.com/watch?v=mkqYfutRaVQ)\
 [Design Patterns in Object Oriented Programming - Christopher Okhravi](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 
