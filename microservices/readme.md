@@ -18,4 +18,5 @@
 [Monolito ou microsserviços - Desenvolvedor.io](https://www.youtube.com/watch?v=eQOAIsyrN6U)\
 [Entendendo o mundo dos Microsserviços - Rodrigo Branas](https://www.youtube.com/watch?v=33LxCvyU_FU)\
 [Microsserviços ou Monolíticos? - André Baltieri](https://www.youtube.com/watch?v=5-2kkglKgow)\
-[Building a microservice architecture with ASP.NET Core - Gill Cleeren](https://www.youtube.com/watch?v=SR53SKIUYPA)
+[Building a microservice architecture with ASP.NET Core - Gill Cleeren](https://www.youtube.com/watch?v=SR53SKIUYPA)\
+[Saga Pattern For Microservice Architecture With Rebus And RabbitMQ - Milan Jovanović](https://www.youtube.com/watch?v=dlXCodLxhag)
