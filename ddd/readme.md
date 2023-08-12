@@ -21,4 +21,5 @@ Domain-driven design (DDD) é uma importante abordagem de design de software, co
 [DDD fundamentals - Codewrinkles](https://www.youtube.com/playlist?list=PL2E-vlKoo_v3ch9oZWYZWwRbqdVoWHY8X)
 
 ### Outros links
-[Interview Eric Evans - se-radio.net](https://www.se-radio.net/2006/03/episode-8-interview-eric-evans/)
+[Interview Eric Evans - se-radio.net](https://www.se-radio.net/2006/03/episode-8-interview-eric-evans/)\
+[Balancing Coupling in Software Design - Vlad Khononov](https://www.youtube.com/watch?v=dGG7FqXX6EA)
