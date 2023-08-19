@@ -9,6 +9,7 @@
 [Programmer Test Principles - Kent Beck](https://medium.com/@kentbeck_7670/programmer-test-principles-d01c064d7934)
 
 ### Vídeos
+[Knowledge bites - Dev Eficiente](https://www.youtube.com/playlist?list=PLVHlvMRWE0Y7Y6o1VpwJIvweK4qnE4xNV)\
 [Testes Unitários com Qualidade - Rafael Quines](https://www.youtube.com/watch?v=DH7F-axOrFU)\
 [Testes Unitários com .NET 6, xUnit e Moq - LuisDev](https://www.youtube.com/watch?v=5xT3YZGCfD8)\
 [Conheça agora TUDO sobre TDD - Pisani da ArcH](https://www.youtube.com/watch?v=kl4R7PDoF8Y)\
