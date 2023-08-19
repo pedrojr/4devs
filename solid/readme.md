@@ -22,4 +22,5 @@ Na programação de computadores orientada a objetos, o termo SOLID é um acrôn
 [SOLID: Programação orientada a objetos - Mario Rezende](https://www.youtube.com/watch?v=rnWPWU7XKeg)
 
 ### Outros links
+[SOLID in Pictures - Ugonna Thelma](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)\
 [Desbravando SOLID com Alexandre Aquiles](https://www.zup.com.br/zupcast/55-desbravando-solid)
