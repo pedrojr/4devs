@@ -7,7 +7,8 @@ O Hypertext transfer protocol, sigla HTTP, é um protocolo de comunicação (na 
 [HTTP: Entendendo a web por baixo dos panos - Fabio Pimentel](https://www.alura.com.br/conteudo/http-fundamentos)\
 [Os métodos HTTP: quais são e pra que servem - Gabs Ferreira](http://gabsferreira.com/os-metodos-http-e-a-diferenca-entre-eles/)\
 [Entendendo as respostas HTTP - Gabriel Schade](https://gabrielschade.github.io/2019/09/11/HTTP-responses.html)\
-[Códigos de status de respostas HTTP - Developer.mozilla](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
+[Códigos de status de respostas HTTP - Developer.mozilla](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)\
+[HTTP1 vs HTTP2 vs HTTP3 - A Deep Dive - BYTEBYTEGO](https://blog.bytebytego.com/p/http1-vs-http2-vs-http3-a-deep-dive)
 
 ### Vídeos
 [Curso Redes de Computadores Grátis - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP)\
