@@ -23,4 +23,5 @@
 [Curso de Versionamento com Git - Angelo Luz](https://www.youtube.com/playlist?list=PLDqnSpzNKDvkfF_ZMfukmOG3MtGKfXlfJ)\
 [Git e Github para Iniciantes - Willian Justen](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)\
 [Git e Github na Vida Real - Willian Justen](https://www.youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg)\
-[Entendendo GIT | (não é um tutorial!) - Fabio Akita](https://www.youtube.com/watch?v=6Czd1Yetaac)
+[Entendendo GIT | (não é um tutorial!) - Fabio Akita](https://www.youtube.com/watch?v=6Czd1Yetaac)\
+[So You Think You Know Git - FOSDEM 2024](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
