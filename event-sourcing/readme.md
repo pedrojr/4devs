@@ -16,4 +16,5 @@ Event Sourcing é um processo no qual todas as mudanças no status de um aplicat
 [Event Sourcing / Greg Young - GOTO 2014](https://www.youtube.com/watch?v=8JKjvY4etTY)\
 [Why Event Sourced Systems Fail / Greg Young - Fwdays](https://www.youtube.com/watch?v=FKFu78ZEIi8)\
 [Greg Young answers your Event Sourcing questions! - CodeOpinion](https://www.youtube.com/watch?v=LGjRfgsumPk)\
-[CQRS & Event Sourcing Code Walk-Through - CodeOpinion](https://www.youtube.com/watch?v=5aznkIEvkKc)
+[CQRS & Event Sourcing Code Walk-Through - CodeOpinion](https://www.youtube.com/watch?v=5aznkIEvkKc)\
+[Event Sourcing Core Concepts - CodeOpinion](https://www.youtube.com/watch?v=HKspPiCGE2E)
